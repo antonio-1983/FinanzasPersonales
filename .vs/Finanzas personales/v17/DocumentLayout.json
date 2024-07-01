@@ -1,0 +1,338 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Antonio\\source\\repos\\Finanzas personales\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7B8DA400-624A-4340-A63D-418D392CF6FC}|Negocio\\Negocio.csproj|C:\\Users\\Antonio\\source\\repos\\Finanzas personales\\Negocio\\AccesoDatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B8DA400-624A-4340-A63D-418D392CF6FC}|Negocio\\Negocio.csproj|solutionrelative:Negocio\\AccesoDatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A25AFA4-CB0A-40AA-8892-3265AF2D15A2}|Finanzas personales\\Finanzas personales.csproj|c:\\users\\antonio\\source\\repos\\finanzas personales\\finanzas personales\\principal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4A25AFA4-CB0A-40AA-8892-3265AF2D15A2}|Finanzas personales\\Finanzas personales.csproj|solutionrelative:finanzas personales\\principal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A25AFA4-CB0A-40AA-8892-3265AF2D15A2}|Finanzas personales\\Finanzas personales.csproj|C:\\Users\\Antonio\\source\\repos\\Finanzas personales\\Finanzas personales\\FrmAgregarOtrosIngresos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4A25AFA4-CB0A-40AA-8892-3265AF2D15A2}|Finanzas personales\\Finanzas personales.csproj|solutionrelative:Finanzas personales\\FrmAgregarOtrosIngresos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A25AFA4-CB0A-40AA-8892-3265AF2D15A2}|Finanzas personales\\Finanzas personales.csproj|C:\\Users\\Antonio\\source\\repos\\Finanzas personales\\finanzas personales\\frmagregargasto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4A25AFA4-CB0A-40AA-8892-3265AF2D15A2}|Finanzas personales\\Finanzas personales.csproj|solutionrelative:finanzas personales\\frmagregargasto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A25AFA4-CB0A-40AA-8892-3265AF2D15A2}|Finanzas personales\\Finanzas personales.csproj|C:\\Users\\Antonio\\source\\repos\\Finanzas personales\\finanzas personales\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A25AFA4-CB0A-40AA-8892-3265AF2D15A2}|Finanzas personales\\Finanzas personales.csproj|solutionrelative:finanzas personales\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A25AFA4-CB0A-40AA-8892-3265AF2D15A2}|Finanzas personales\\Finanzas personales.csproj|C:\\Users\\Antonio\\source\\repos\\Finanzas personales\\Finanzas personales\\App.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{4A25AFA4-CB0A-40AA-8892-3265AF2D15A2}|Finanzas personales\\Finanzas personales.csproj|solutionrelative:Finanzas personales\\App.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A25AFA4-CB0A-40AA-8892-3265AF2D15A2}|Finanzas personales\\Finanzas personales.csproj|C:\\Users\\Antonio\\source\\repos\\Finanzas personales\\Finanzas personales\\Finanzas personales.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{4A25AFA4-CB0A-40AA-8892-3265AF2D15A2}|Finanzas personales\\Finanzas personales.csproj|solutionrelative:Finanzas personales\\Finanzas personales.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93920ED3-F976-42D9-A792-46CF3B8ECD22}|Dominio\\Dominio.csproj|C:\\Users\\Antonio\\source\\repos\\Finanzas personales\\Dominio\\OtroIngreso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93920ED3-F976-42D9-A792-46CF3B8ECD22}|Dominio\\Dominio.csproj|solutionrelative:Dominio\\OtroIngreso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A25AFA4-CB0A-40AA-8892-3265AF2D15A2}|Finanzas personales\\Finanzas personales.csproj|C:\\Users\\Antonio\\source\\repos\\Finanzas personales\\Finanzas personales\\Principal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A25AFA4-CB0A-40AA-8892-3265AF2D15A2}|Finanzas personales\\Finanzas personales.csproj|solutionrelative:Finanzas personales\\Principal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A25AFA4-CB0A-40AA-8892-3265AF2D15A2}|Finanzas personales\\Finanzas personales.csproj|C:\\Users\\Antonio\\source\\repos\\Finanzas personales\\Finanzas personales\\FrmAgregarTipo.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A25AFA4-CB0A-40AA-8892-3265AF2D15A2}|Finanzas personales\\Finanzas personales.csproj|solutionrelative:Finanzas personales\\FrmAgregarTipo.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A25AFA4-CB0A-40AA-8892-3265AF2D15A2}|Finanzas personales\\Finanzas personales.csproj|C:\\Users\\Antonio\\source\\repos\\Finanzas personales\\Finanzas personales\\FrmAgregarTipo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A25AFA4-CB0A-40AA-8892-3265AF2D15A2}|Finanzas personales\\Finanzas personales.csproj|solutionrelative:Finanzas personales\\FrmAgregarTipo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B8DA400-624A-4340-A63D-418D392CF6FC}|Negocio\\Negocio.csproj|C:\\Users\\Antonio\\source\\repos\\Finanzas personales\\Negocio\\ResumenNegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B8DA400-624A-4340-A63D-418D392CF6FC}|Negocio\\Negocio.csproj|solutionrelative:Negocio\\ResumenNegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A25AFA4-CB0A-40AA-8892-3265AF2D15A2}|Finanzas personales\\Finanzas personales.csproj|C:\\Users\\Antonio\\source\\repos\\Finanzas personales\\finanzas personales\\frmingresarsueldo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4A25AFA4-CB0A-40AA-8892-3265AF2D15A2}|Finanzas personales\\Finanzas personales.csproj|solutionrelative:finanzas personales\\frmingresarsueldo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B8DA400-624A-4340-A63D-418D392CF6FC}|Negocio\\Negocio.csproj|C:\\Users\\Antonio\\source\\repos\\Finanzas personales\\Negocio\\GastoNegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B8DA400-624A-4340-A63D-418D392CF6FC}|Negocio\\Negocio.csproj|solutionrelative:Negocio\\GastoNegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93920ED3-F976-42D9-A792-46CF3B8ECD22}|Dominio\\Dominio.csproj|C:\\Users\\Antonio\\source\\repos\\Finanzas personales\\Dominio\\Resumen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93920ED3-F976-42D9-A792-46CF3B8ECD22}|Dominio\\Dominio.csproj|solutionrelative:Dominio\\Resumen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A25AFA4-CB0A-40AA-8892-3265AF2D15A2}|Finanzas personales\\Finanzas personales.csproj|C:\\Users\\Antonio\\source\\repos\\Finanzas personales\\Finanzas personales\\FrmAgregarGasto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A25AFA4-CB0A-40AA-8892-3265AF2D15A2}|Finanzas personales\\Finanzas personales.csproj|solutionrelative:Finanzas personales\\FrmAgregarGasto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A25AFA4-CB0A-40AA-8892-3265AF2D15A2}|Finanzas personales\\Finanzas personales.csproj|C:\\Users\\Antonio\\source\\repos\\Finanzas personales\\finanzas personales\\frmagregartipo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4A25AFA4-CB0A-40AA-8892-3265AF2D15A2}|Finanzas personales\\Finanzas personales.csproj|solutionrelative:finanzas personales\\frmagregartipo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A25AFA4-CB0A-40AA-8892-3265AF2D15A2}|Finanzas personales\\Finanzas personales.csproj|C:\\Users\\Antonio\\source\\repos\\Finanzas personales\\Finanzas personales\\FrmIngresarSueldo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A25AFA4-CB0A-40AA-8892-3265AF2D15A2}|Finanzas personales\\Finanzas personales.csproj|solutionrelative:Finanzas personales\\FrmIngresarSueldo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93920ED3-F976-42D9-A792-46CF3B8ECD22}|Dominio\\Dominio.csproj|C:\\Users\\Antonio\\source\\repos\\Finanzas personales\\Dominio\\Tipo_Gasto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93920ED3-F976-42D9-A792-46CF3B8ECD22}|Dominio\\Dominio.csproj|solutionrelative:Dominio\\Tipo_Gasto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A25AFA4-CB0A-40AA-8892-3265AF2D15A2}|Finanzas personales\\Finanzas personales.csproj|C:\\Users\\Antonio\\source\\repos\\Finanzas personales\\Finanzas personales\\FrmIngresarSueldo.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A25AFA4-CB0A-40AA-8892-3265AF2D15A2}|Finanzas personales\\Finanzas personales.csproj|solutionrelative:Finanzas personales\\FrmIngresarSueldo.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Principal.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Antonio\\source\\repos\\Finanzas personales\\Finanzas personales\\Principal.cs",
+              "RelativeDocumentMoniker": "Finanzas personales\\Principal.cs",
+              "ToolTip": "C:\\Users\\Antonio\\source\\repos\\Finanzas personales\\Finanzas personales\\Principal.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Finanzas personales\\Principal.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T20:26:53.824Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\Antonio\\source\\repos\\Finanzas personales\\Finanzas personales\\App.config",
+              "RelativeDocumentMoniker": "Finanzas personales\\App.config",
+              "ToolTip": "C:\\Users\\Antonio\\source\\repos\\Finanzas personales\\Finanzas personales\\App.config",
+              "RelativeToolTip": "Finanzas personales\\App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-06-28T20:25:09.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Finanzas personales.csproj",
+              "DocumentMoniker": "C:\\Users\\Antonio\\source\\repos\\Finanzas personales\\Finanzas personales\\Finanzas personales.csproj",
+              "RelativeDocumentMoniker": "Finanzas personales\\Finanzas personales.csproj",
+              "ToolTip": "C:\\Users\\Antonio\\source\\repos\\Finanzas personales\\Finanzas personales\\Finanzas personales.csproj",
+              "RelativeToolTip": "Finanzas personales\\Finanzas personales.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-28T20:24:58.436Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "OtroIngreso.cs",
+              "DocumentMoniker": "C:\\Users\\Antonio\\source\\repos\\Finanzas personales\\Dominio\\OtroIngreso.cs",
+              "RelativeDocumentMoniker": "Dominio\\OtroIngreso.cs",
+              "ToolTip": "C:\\Users\\Antonio\\source\\repos\\Finanzas personales\\Dominio\\OtroIngreso.cs",
+              "RelativeToolTip": "Dominio\\OtroIngreso.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T13:50:37.966Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Principal.cs",
+              "DocumentMoniker": "C:\\Users\\Antonio\\source\\repos\\Finanzas personales\\Finanzas personales\\Principal.cs",
+              "RelativeDocumentMoniker": "Finanzas personales\\Principal.cs",
+              "ToolTip": "C:\\Users\\Antonio\\source\\repos\\Finanzas personales\\Finanzas personales\\Principal.cs",
+              "RelativeToolTip": "Finanzas personales\\Principal.cs",
+              "ViewState": "AQIAAEoAAAAAAAAAAAAjwCMAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T03:59:45.194Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FrmAgregarGasto.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Antonio\\source\\repos\\Finanzas personales\\Finanzas personales\\FrmAgregarGasto.cs",
+              "RelativeDocumentMoniker": "Finanzas personales\\FrmAgregarGasto.cs",
+              "ToolTip": "C:\\Users\\Antonio\\source\\repos\\Finanzas personales\\Finanzas personales\\FrmAgregarGasto.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Finanzas personales\\FrmAgregarGasto.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T00:26:54.209Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AccesoDatos.cs",
+              "DocumentMoniker": "C:\\Users\\Antonio\\source\\repos\\Finanzas personales\\Negocio\\AccesoDatos.cs",
+              "RelativeDocumentMoniker": "Negocio\\AccesoDatos.cs",
+              "ToolTip": "C:\\Users\\Antonio\\source\\repos\\Finanzas personales\\Negocio\\AccesoDatos.cs",
+              "RelativeToolTip": "Negocio\\AccesoDatos.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAowDYAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T05:24:23.155Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FrmAgregarOtrosIngresos.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Antonio\\source\\repos\\Finanzas personales\\Finanzas personales\\FrmAgregarOtrosIngresos.cs",
+              "RelativeDocumentMoniker": "Finanzas personales\\FrmAgregarOtrosIngresos.cs",
+              "ToolTip": "C:\\Users\\Antonio\\source\\repos\\Finanzas personales\\Finanzas personales\\FrmAgregarOtrosIngresos.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Finanzas personales\\FrmAgregarOtrosIngresos.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T13:42:14.626Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Antonio\\source\\repos\\Finanzas personales\\Finanzas personales\\Program.cs",
+              "RelativeDocumentMoniker": "Finanzas personales\\Program.cs",
+              "ToolTip": "C:\\Users\\Antonio\\source\\repos\\Finanzas personales\\Finanzas personales\\Program.cs",
+              "RelativeToolTip": "Finanzas personales\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T01:21:25.161Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FrmAgregarTipo.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Antonio\\source\\repos\\Finanzas personales\\Finanzas personales\\FrmAgregarTipo.Designer.cs",
+              "RelativeDocumentMoniker": "Finanzas personales\\FrmAgregarTipo.Designer.cs",
+              "ToolTip": "C:\\Users\\Antonio\\source\\repos\\Finanzas personales\\Finanzas personales\\FrmAgregarTipo.Designer.cs",
+              "RelativeToolTip": "Finanzas personales\\FrmAgregarTipo.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T19:09:15.277Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FrmAgregarTipo.cs",
+              "DocumentMoniker": "C:\\Users\\Antonio\\source\\repos\\Finanzas personales\\Finanzas personales\\FrmAgregarTipo.cs",
+              "RelativeDocumentMoniker": "Finanzas personales\\FrmAgregarTipo.cs",
+              "ToolTip": "C:\\Users\\Antonio\\source\\repos\\Finanzas personales\\Finanzas personales\\FrmAgregarTipo.cs",
+              "RelativeToolTip": "Finanzas personales\\FrmAgregarTipo.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAArwBcAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T19:09:07.04Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ResumenNegocio.cs",
+              "DocumentMoniker": "C:\\Users\\Antonio\\source\\repos\\Finanzas personales\\Negocio\\ResumenNegocio.cs",
+              "RelativeDocumentMoniker": "Negocio\\ResumenNegocio.cs",
+              "ToolTip": "C:\\Users\\Antonio\\source\\repos\\Finanzas personales\\Negocio\\ResumenNegocio.cs",
+              "RelativeToolTip": "Negocio\\ResumenNegocio.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAHcAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T08:20:10.742Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FrmIngresarSueldo.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Antonio\\source\\repos\\Finanzas personales\\Finanzas personales\\FrmIngresarSueldo.cs",
+              "RelativeDocumentMoniker": "Finanzas personales\\FrmIngresarSueldo.cs",
+              "ToolTip": "C:\\Users\\anton\\source\\repos\\Finanzas personales\\Finanzas personales\\FrmIngresarSueldo.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\..\\anton\\source\\repos\\Finanzas personales\\Finanzas personales\\FrmIngresarSueldo.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T04:04:16.962Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "GastoNegocio.cs",
+              "DocumentMoniker": "C:\\Users\\Antonio\\source\\repos\\Finanzas personales\\Negocio\\GastoNegocio.cs",
+              "RelativeDocumentMoniker": "Negocio\\GastoNegocio.cs",
+              "ToolTip": "C:\\Users\\Antonio\\source\\repos\\Finanzas personales\\Negocio\\GastoNegocio.cs",
+              "RelativeToolTip": "Negocio\\GastoNegocio.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADQAAABXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T08:19:13.794Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Resumen.cs",
+              "DocumentMoniker": "C:\\Users\\Antonio\\source\\repos\\Finanzas personales\\Dominio\\Resumen.cs",
+              "RelativeDocumentMoniker": "Dominio\\Resumen.cs",
+              "ToolTip": "C:\\Users\\Antonio\\source\\repos\\Finanzas personales\\Dominio\\Resumen.cs",
+              "RelativeToolTip": "Dominio\\Resumen.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T05:00:47.99Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "FrmAgregarGasto.cs",
+              "DocumentMoniker": "C:\\Users\\Antonio\\source\\repos\\Finanzas personales\\Finanzas personales\\FrmAgregarGasto.cs",
+              "RelativeDocumentMoniker": "Finanzas personales\\FrmAgregarGasto.cs",
+              "ToolTip": "C:\\Users\\Antonio\\source\\repos\\Finanzas personales\\Finanzas personales\\FrmAgregarGasto.cs",
+              "RelativeToolTip": "Finanzas personales\\FrmAgregarGasto.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAADgvzEAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T07:38:51.486Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "FrmAgregarTipo.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Antonio\\source\\repos\\Finanzas personales\\Finanzas personales\\FrmAgregarTipo.cs",
+              "RelativeDocumentMoniker": "Finanzas personales\\FrmAgregarTipo.cs",
+              "ToolTip": "C:\\Users\\Antonio\\source\\repos\\Finanzas personales\\Finanzas personales\\FrmAgregarTipo.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Finanzas personales\\FrmAgregarTipo.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T19:07:24.452Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "FrmIngresarSueldo.cs",
+              "DocumentMoniker": "C:\\Users\\Antonio\\source\\repos\\Finanzas personales\\Finanzas personales\\FrmIngresarSueldo.cs",
+              "RelativeDocumentMoniker": "Finanzas personales\\FrmIngresarSueldo.cs",
+              "ToolTip": "C:\\Users\\Antonio\\source\\repos\\Finanzas personales\\Finanzas personales\\FrmIngresarSueldo.cs",
+              "RelativeToolTip": "Finanzas personales\\FrmIngresarSueldo.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAAvwDQAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T08:24:27.177Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Tipo_Gasto.cs",
+              "DocumentMoniker": "C:\\Users\\Antonio\\source\\repos\\Finanzas personales\\Dominio\\Tipo_Gasto.cs",
+              "RelativeDocumentMoniker": "Dominio\\Tipo_Gasto.cs",
+              "ToolTip": "C:\\Users\\Antonio\\source\\repos\\Finanzas personales\\Dominio\\Tipo_Gasto.cs",
+              "RelativeToolTip": "Dominio\\Tipo_Gasto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T04:43:33.106Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "FrmIngresarSueldo.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Antonio\\source\\repos\\Finanzas personales\\Finanzas personales\\FrmIngresarSueldo.Designer.cs",
+              "RelativeDocumentMoniker": "Finanzas personales\\FrmIngresarSueldo.Designer.cs",
+              "ToolTip": "C:\\Users\\Antonio\\source\\repos\\Finanzas personales\\Finanzas personales\\FrmIngresarSueldo.Designer.cs",
+              "RelativeToolTip": "Finanzas personales\\FrmIngresarSueldo.Designer.cs",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAiwEoAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T16:15:21.692Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

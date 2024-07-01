@@ -1,0 +1,6 @@
+C:\Users\anton\source\repos\Finanzas personales\Dominio\bin\Debug\Dominio.dll
+C:\Users\anton\source\repos\Finanzas personales\Dominio\bin\Debug\Dominio.pdb
+C:\Users\anton\source\repos\Finanzas personales\Dominio\obj\Debug\Dominio.csproj.AssemblyReference.cache
+C:\Users\anton\source\repos\Finanzas personales\Dominio\obj\Debug\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\anton\source\repos\Finanzas personales\Dominio\obj\Debug\Dominio.dll
+C:\Users\anton\source\repos\Finanzas personales\Dominio\obj\Debug\Dominio.pdb

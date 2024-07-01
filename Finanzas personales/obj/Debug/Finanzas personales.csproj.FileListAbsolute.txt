@@ -1,0 +1,38 @@
+C:\Users\anton\source\repos\Finanzas personales\Finanzas personales\bin\Debug\Finanzas personales.exe.config
+C:\Users\anton\source\repos\Finanzas personales\Finanzas personales\bin\Debug\Finanzas personales.exe
+C:\Users\anton\source\repos\Finanzas personales\Finanzas personales\bin\Debug\Finanzas personales.pdb
+C:\Users\anton\source\repos\Finanzas personales\Finanzas personales\obj\Debug\Finanzas personales.csproj.AssemblyReference.cache
+C:\Users\anton\source\repos\Finanzas personales\Finanzas personales\obj\Debug\Finanzas_personales.FrmFinanzasPersonales.resources
+C:\Users\anton\source\repos\Finanzas personales\Finanzas personales\obj\Debug\Finanzas_personales.Properties.Resources.resources
+C:\Users\anton\source\repos\Finanzas personales\Finanzas personales\obj\Debug\Finanzas personales.csproj.GenerateResource.cache
+C:\Users\anton\source\repos\Finanzas personales\Finanzas personales\obj\Debug\Finanzas personales.csproj.CoreCompileInputs.cache
+C:\Users\anton\source\repos\Finanzas personales\Finanzas personales\obj\Debug\Finanzas personales.exe
+C:\Users\anton\source\repos\Finanzas personales\Finanzas personales\obj\Debug\Finanzas personales.pdb
+C:\Users\anton\source\repos\Finanzas personales\Finanzas personales\obj\Debug\Finanzas_personales.FrmIngresarSueldo.resources
+C:\Users\anton\source\repos\Finanzas personales\Finanzas personales\bin\Debug\Dominio.dll
+C:\Users\anton\source\repos\Finanzas personales\Finanzas personales\bin\Debug\Negocio.dll
+C:\Users\anton\source\repos\Finanzas personales\Finanzas personales\bin\Debug\Dominio.pdb
+C:\Users\anton\source\repos\Finanzas personales\Finanzas personales\bin\Debug\Negocio.pdb
+C:\Users\anton\source\repos\Finanzas personales\Finanzas personales\obj\Debug\Finanzas.4DFF1437.Up2Date
+C:\Users\anton\source\repos\Finanzas personales\Finanzas personales\obj\Debug\Finanzas_personales.FrmAgregarGasto.resources
+C:\Users\anton\source\repos\Finanzas personales\Finanzas personales\obj\Debug\Finanzas_personales.FrmAgregarTipo.resources
+C:\Users\anton\source\repos\Finanzas personales\Finanzas personales\obj\Debug\Finanzas_personales.FrmAgregarOtrosIngresos.resources
+C:\Users\Antonio\source\repos\Finanzas personales\Finanzas personales\bin\Debug\Finanzas personales.exe.config
+C:\Users\Antonio\source\repos\Finanzas personales\Finanzas personales\bin\Debug\Finanzas personales.exe
+C:\Users\Antonio\source\repos\Finanzas personales\Finanzas personales\bin\Debug\Finanzas personales.pdb
+C:\Users\Antonio\source\repos\Finanzas personales\Finanzas personales\bin\Debug\Dominio.dll
+C:\Users\Antonio\source\repos\Finanzas personales\Finanzas personales\bin\Debug\Negocio.dll
+C:\Users\Antonio\source\repos\Finanzas personales\Finanzas personales\bin\Debug\Dominio.pdb
+C:\Users\Antonio\source\repos\Finanzas personales\Finanzas personales\bin\Debug\Negocio.pdb
+C:\Users\Antonio\source\repos\Finanzas personales\Finanzas personales\obj\Debug\Finanzas personales.csproj.AssemblyReference.cache
+C:\Users\Antonio\source\repos\Finanzas personales\Finanzas personales\obj\Debug\Finanzas_personales.FrmAgregarGasto.resources
+C:\Users\Antonio\source\repos\Finanzas personales\Finanzas personales\obj\Debug\Finanzas_personales.FrmAgregarOtrosIngresos.resources
+C:\Users\Antonio\source\repos\Finanzas personales\Finanzas personales\obj\Debug\Finanzas_personales.FrmAgregarTipo.resources
+C:\Users\Antonio\source\repos\Finanzas personales\Finanzas personales\obj\Debug\Finanzas_personales.FrmIngresarSueldo.resources
+C:\Users\Antonio\source\repos\Finanzas personales\Finanzas personales\obj\Debug\Finanzas_personales.FrmFinanzasPersonales.resources
+C:\Users\Antonio\source\repos\Finanzas personales\Finanzas personales\obj\Debug\Finanzas_personales.Properties.Resources.resources
+C:\Users\Antonio\source\repos\Finanzas personales\Finanzas personales\obj\Debug\Finanzas personales.csproj.GenerateResource.cache
+C:\Users\Antonio\source\repos\Finanzas personales\Finanzas personales\obj\Debug\Finanzas personales.csproj.CoreCompileInputs.cache
+C:\Users\Antonio\source\repos\Finanzas personales\Finanzas personales\obj\Debug\Finanzas.4DFF1437.Up2Date
+C:\Users\Antonio\source\repos\Finanzas personales\Finanzas personales\obj\Debug\Finanzas personales.exe
+C:\Users\Antonio\source\repos\Finanzas personales\Finanzas personales\obj\Debug\Finanzas personales.pdb
